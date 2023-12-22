@@ -38,4 +38,6 @@ and the scripts will be executed every hour/day/week/month.
 	3. crontab -r 	Remove your current crontab file.
 	4. crontab -i 	Remove your current crontab file with a prompt before removal.
 	5. crontab -u <username> - Edit other user crontab file. This option requires system administrator privileges.
+![Capture](https://github.com/MdsifatHossain/Scheduling-Cron-Job-In-Linux/assets/105970897/aa1913d1-a688-4cae-82f2-3976cc4587a2)
+
 
